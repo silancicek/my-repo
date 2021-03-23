@@ -1,8 +1,10 @@
 ---
-title: "Lab 9"
+title: "Assignment5_Bonus"
 author: "Silan Cicek, 400139206"
 date: "03/22/2021"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## Neural networks (seeds data)
